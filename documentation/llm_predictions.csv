@@ -1,0 +1,41 @@
+review_text,model,raw_output,latency_s,input_tokens,output_tokens
+Pelayanan lambat dan tidak responsif saat dikomplain.,gemini-3.5-flash-lite,negatif,1.2923422000021674,132.0,2.0
+"Puas banget belanja disini, proses cepat dan barang aman.",gemini-3.5-flash-lite,positif,1.0820483999996213,131.0,2.0
+"Terima kasih seller, barangnya awet dan sesuai deskripsi.",gemini-3.5-flash-lite,positif,1.1445177999994485,133.0,2.0
+Warna produk berbeda jauh dari foto di listing.,gemini-3.5-flash-lite,negatif,1.203011299992795,129.0,2.0
+"Packing rapi, produk sesuai deskripsi. Recommended seller!",gemini-3.5-flash-lite,positif,1.5782818000006955,131.0,2.0
+Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,gemini-3.5-flash-lite,negatif,1.2648131000023568,132.0,2.0
+"Belanja disini selalu puas, kualitas terjaga.",gemini-3.5-flash-lite,positif,1.1770443999994313,129.0,2.0
+"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",gemini-3.5-flash-lite,positif,1.1930361999984598,133.0,2.0
+"Barang cacat produksi, jahitan lepas di beberapa bagian.",gemini-3.5-flash-lite,negatif,1.3155854000069667,132.0,2.0
+"Barang yang datang tidak sesuai dengan foto, kecewa berat.",gemini-3.5-flash-lite,negatif,0.9687195000005886,132.0,2.0
+Barang tidak berfungsi sama sekali begitu diterima.,gemini-3.5-flash-lite,negatif,1.2192662000015844,128.0,2.0
+"Pengiriman lambat sekali, sudah dua minggu belum sampai.",gemini-3.5-flash-lite,negatif,1.0415228999918327,131.0,2.0
+"Produk original dan berfungsi dengan baik, terima kasih!",gemini-3.5-flash-lite,positif,1.2081411999970442,130.0,2.0
+"Pelayanan cepat tanggap, produk berkualitas tinggi.",gemini-3.5-flash-lite,positif,1.0841301000036765,129.0,2.0
+"Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",gemini-3.5-flash-lite,positif,0.9713707999908365,133.0,2.0
+"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",gemini-3.5-flash-lite,positif,1.3092166999995243,134.0,2.0
+"Respon cepat kalau ada pertanyaan, sangat membantu.",gemini-3.5-flash-lite,positif,1.292052299992065,129.0,2.0
+Respon penjual lambat dan terkesan tidak peduli komplain.,gemini-3.5-flash-lite,negatif,0.9251419999927748,135.0,2.0
+"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",gemini-3.5-flash-lite,negatif,1.1273000999935903,133.0,2.0
+"Kualitas produk sangat memuaskan, akan order lagi.",gemini-3.5-flash-lite,positif,1.0459293000021717,131.0,2.0
+"Sangat mengecewakan, uang saya seperti terbuang percuma.",gemini-3.5-flash-lite,negatif,1.2250733999971999,135.0,2.0
+"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",gemini-3.5-flash-lite,negatif,1.099087700000382,132.0,2.0
+"Kualitas produk jelek, baru dipakai sekali sudah rusak.",gemini-3.5-flash-lite,negatif,1.1040799000038533,131.0,2.0
+"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",gemini-3.5-flash-lite,positif,1.515522100002272,135.0,2.0
+"Produknya rapi dan bersih, tidak ada cacat sama sekali.",gemini-3.5-flash-lite,positif,1.015174299987848,134.0,2.0
+"Fast respon, pengiriman cepat, barang aman sampai tujuan.",gemini-3.5-flash-lite,positif,1.4483445000078063,131.0,2.0
+"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",gemini-3.5-flash-lite,positif,1.2298900000023423,131.0,2.0
+"Suka banget sama warnanya, sesuai ekspektasi.",gemini-3.5-flash-lite,positif,0.9609447999973781,131.0,2.0
+"Barang datang lebih cepat dari perkiraan, kualitas top!",gemini-3.5-flash-lite,positif,1.288526099990122,131.0,2.0
+"Deskripsi produk menyesatkan, jauh dari kenyataan.",gemini-3.5-flash-lite,negatif,0.9901354000030551,130.0,2.0
+"Pengalaman belanja terburuk, tidak akan order lagi disini.",gemini-3.5-flash-lite,negatif,13.058671399994637,132.0,2.0
+Komplain tidak ditanggapi sama sekali oleh penjual.,gemini-3.5-flash-lite,negatif,1.085844499990344,131.0,2.0
+"Ukuran tidak sesuai, terlalu kecil dari yang dipesan.",gemini-3.5-flash-lite,negatif,1.5133112999901641,131.0,2.0
+"Produk palsu, bukan barang original seperti yang dijanjikan.",gemini-3.5-flash-lite,negatif,1.1032458999980008,133.0,2.0
+"Harga worth it dengan kualitas yang didapat, sangat puas.",gemini-3.5-flash-lite,positif,1.3219230999966385,131.0,2.0
+"Kualitas premium dengan harga bersahabat, recommended!",gemini-3.5-flash-lite,positif,24.91082990000723,130.0,2.0
+Barang datang dalam kondisi rusak dan packing asal-asalan.,gemini-3.5-flash-lite,negatif,1.0004774999979418,132.0,2.0
+"Pengiriman berantakan, barang sampai dalam kondisi kotor.",gemini-3.5-flash-lite,negatif,1.2175489000073867,132.0,2.0
+"Tidak sesuai standar, banyak cacat pada produk yang diterima.",gemini-3.5-flash-lite,negatif,0.8723758999985876,131.0,2.0
+"Mantap, sesuai gambar dan harga terjangkau.",gemini-3.5-flash-lite,positif,1.1945053999952506,130.0,2.0
